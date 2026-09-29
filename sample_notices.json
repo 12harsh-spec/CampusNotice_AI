@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "category": "Internship",
+    "notice": "NOTICE \u2014 Internship Opportunity for Semester V Students. The Training and Placement Cell announces the Summer Industry Internship Programme 2027. Students currently enrolled in Semester V of B.Tech are eligible. Submit an updated resume, college ID card, and passport-size photograph through the internship registration form on or before 5 October 2026. The internship begins on 1 December 2026 at the partner company's Jaipur office. For queries, contact the Training and Placement Cell at tpo@college.edu."
+  },
+  {
+    "id": 2,
+    "category": "Exam",
+    "notice": "NOTICE \u2014 End Semester Examination Form. All students of Semester III and V must complete the examination form submission by 12 October 2026. Students must upload their college ID and recent photograph. The examination section will publish the final timetable separately."
+  },
+  {
+    "id": 3,
+    "category": "Scholarship",
+    "notice": "NOTICE \u2014 Scholarship Applications. Eligible students may apply for the merit scholarship through the student portal by 20 October 2026. Applicants should keep their latest marksheet and income certificate ready. Students with questions may contact the scholarship cell during working hours."
+  },
+  {
+    "id": 4,
+    "category": "Placement",
+    "notice": "NOTICE \u2014 Campus Placement Drive. Final-year B.Tech students are invited to register for the campus recruitment drive. Registration closes on 8 October 2026. Students must submit an updated resume through the placement portal. The company presentation will be held in Seminar Hall A."
+  },
+  {
+    "id": 5,
+    "category": "Event",
+    "notice": "NOTICE \u2014 Technical Seminar. The Department of Computer Science is organizing a seminar on Artificial Intelligence on 15 October 2026 at 11:00 AM in Auditorium 2. Students interested in attending should register through the department form. Participation certificates will be provided."
+  }
+]
