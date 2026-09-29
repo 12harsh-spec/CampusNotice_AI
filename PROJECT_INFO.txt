@@ -1,0 +1,4 @@
+CampusNotice AI
+College Notice Intelligence System
+NLP + LLM API project
+Generated as a GitHub-ready academic submission package.
