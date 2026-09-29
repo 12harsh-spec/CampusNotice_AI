@@ -259,16 +259,3 @@ Students should always verify important information against the original college
 | LLM API functionality | OpenAI API integration in `llm_client.py` |
 | Prompt effectiveness | Dedicated structured prompt in `prompts/notice_analysis.txt` |
 | Overall project quality | Streamlit interface, evaluation dataset, documentation, demo mode |
-
-## GitHub Submission Checklist
-
-- [ ] Upload all source files
-- [ ] Upload `prompts/notice_analysis.txt`
-- [ ] Upload `config/config.example.json`
-- [ ] Upload `README.md`
-- [ ] Upload `requirements.txt`
-- [ ] Upload sample data
-- [ ] Upload tests
-- [ ] Do NOT upload `.env`
-- [ ] Do NOT upload API keys
-- [ ] Test the application before submission
