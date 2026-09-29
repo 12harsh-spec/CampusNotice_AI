@@ -5,4 +5,5 @@ PROMPT_PATH = ROOT / "prompts" / "notice_analysis.txt"
 
 def load_prompt(notice: str) -> str:
     template = PROMPT_PATH.read_text(encoding="utf-8")
-    return template.format(notice=notice)
+    template = template.replace("{notice}", notice)
+    return template
